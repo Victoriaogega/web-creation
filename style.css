@@ -1,0 +1,513 @@
+.lists_icons {
+    display: flex;
+    gap: 10%;
+    padding-left: 7%;
+    padding-right: 5%;
+    color: white;
+    background-color: rgb(78, 73, 73);
+}
+
+.legal_information {
+    display: flex;
+    gap: 25%;
+    padding-left: 5%;
+    padding-top: 1%;
+    color: white;
+    background-color: black;
+}
+
+footer {
+    border: 1px solid black;
+}
+
+.lists {
+    list-style: none;
+
+}
+
+.title {
+    padding-top: 1.5%;
+}
+
+.icon {
+    display: flex;
+    gap: 40%;
+}
+
+.find_us {
+    display: flex;
+    margin-bottom: 5%;
+    gap: 20%;
+    padding-left: 20%;
+}
+
+.weird_image img {
+    width: 150%;
+}
+
+.download {
+    padding-top: 5%;
+}
+
+.download h4 {
+    font-size: 200%;
+}
+
+.download span {
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.fa-apple {
+    font-size: 150%;
+}
+
+.app_store {
+    height: 13%;
+    width: 40%;
+    border-radius: 10%;
+    border: none;
+    color: white;
+    background-color: black;
+}
+
+.play_store {
+    height: 14%;
+    width: 40%;
+    border-radius: 10%;
+}
+
+.reviews {
+    display: flex;
+    margin-bottom: 10%;
+    margin-left: 10%;
+    gap: 3%;
+    margin-top: 3%;
+}
+
+.zohir {
+    border: 1px solid black;
+    width: 35%;
+    padding-left: 4%;
+    border-radius: 5%;
+}
+
+.zohir img {
+    height: 25%;
+    width: 25%;
+    border-radius: 50%;
+}
+
+.mokbul {
+    border: 1px solid black;
+    width: 35%;
+    padding-left: 4%;
+    border-radius: 5%;
+}
+
+.mokbul img {
+    height: 25%;
+    width: 25%;
+    border-radius: 50%;
+}
+
+.review_header {
+    display: flex;
+    gap: 30%;
+    padding-top: 10%;
+}
+
+.fa-arrow-left {}
+
+.fa-arrow-right {}
+
+arrow {
+    display: flex;
+}
+
+.client_review span {
+    color: red;
+    text-decoration: underline;
+}
+
+.client_review {
+    font-size: 200%;
+    margin-left: 30%;
+
+}
+
+.app_interphase {
+    display: flex;
+    gap: 5%;
+    margin-left: 12%;
+    background-color: rgb(212, 195, 212);
+    width: 70%;
+    border-radius: 1.5%;
+    margin-bottom: 9%;
+    padding-left: 5%;
+    height: 300px;
+}
+
+.helping_globally {
+    text-align: center;
+    font-size: 200%;
+}
+
+.helping_globally span {
+    color: red;
+    text-decoration: underline;
+}
+
+.ditio_numbers {
+    display: flex;
+    width: 70%;
+    margin-left: 13%;
+    padding-left: 5%;
+    gap: 20%;
+}
+
+.left h4 {
+    font-size: 150%;
+    margin-bottom: 0%;
+}
+
+.left span {
+    color: red;
+    text-decoration: underline;
+
+}
+
+.statistics {
+    display: flex;
+    gap: 7%;
+}
+
+.statistics h2 {
+    font-size: 280%;
+    margin-bottom: 0%;
+    font-weight: 100;
+
+}
+
+.create_account {
+    display: flex;
+    margin-top: 5%;
+    gap: 20%;
+    border: 1px solid white;
+    margin-top: 10%;
+    position: absolute;
+    top: -5%;
+    background-color: white;
+    padding: 3%;
+    border-radius: 4%;
+
+}
+
+.create_account button {
+    background-color: blue;
+    width: 70px;
+    height: 30px;
+    border: none;
+    color: white;
+    border-radius: 5%;
+}
+
+.create_account h5 {
+    font-size: 100%;
+    margin-bottom: 0%;
+    margin-top: 2%;
+}
+
+.watch {
+    margin-top: 20%;
+}
+
+.fa-cube {
+    background-color: rgb(127, 54, 196);
+    color: white;
+    height: 15%;
+    width: 10%;
+    padding-left: 2%;
+    margin-top: 0%;
+}
+
+.study {
+    position: absolute;
+    top: 65%;
+    border: 1px solid white;
+    border-radius: 3%;
+    background-color: white;
+    padding: 1%;
+
+}
+
+.study button {
+    background-color: palevioletred;
+    border: none;
+    width: 50%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    border-radius: 6%;
+}
+
+.right {
+    position: relative;
+    z-index: -1;
+}
+
+.right img {
+    height: 100%;
+    width: 100%;
+    position: relative;
+    z-index: -1;
+}
+
+.our_product {
+    display: flex;
+    height: 150px;
+    padding-left: 3%;
+    gap: 5%;
+    padding-top: 3%;
+    padding-left: 7%;
+    padding-right: 7%;
+
+}
+
+.easy_interface {
+    border: 2px solid purple;
+    height: 200px;
+    padding-left: 3%;
+    padding-right: 3%;
+    background-color: white;
+    border-radius: 3%;
+
+}
+
+.secured_tranfer {
+    height: 200px;
+    padding-left: 3%;
+    padding-right: 3%;
+    background-color: white;
+    border-radius: 3%;
+}
+
+.support {
+    height: 200px;
+    padding-left: 3%;
+    padding-right: 3%;
+    background-color: white;
+    border-radius: 3%;
+
+}
+
+.the_product {
+    margin-bottom: 10%;
+    width: 60%;
+    margin-left: 20%;
+    padding-bottom: 8%;
+    background-color: rgb(217, 233, 238);
+    border-radius: 2.5%;
+
+}
+
+.the_product span {
+    color: red;
+    text-decoration: underline;
+}
+
+.the_product h4 {
+    font-size: 150%;
+    text-align: center;
+}
+
+.fa-star {
+    padding-left: 40%;
+    padding-top: 5%;
+
+}
+
+.fa-feather {
+    padding-left: 40%;
+    padding-top: 5%;
+}
+
+.header_icons {
+    display: flex;
+    align-items: center;
+    margin-left: 1%;
+    margin-right: 10%;
+    margin-top: 0%;
+}
+
+.fa-trello {
+    font-size: 250%;
+    color: rgb(95, 156, 206);
+}
+
+.fa-dropbox {
+    font-size: 350%;
+    color: rgb(95, 156, 206);
+}
+
+.ditio_businesses {
+    text-align: center;
+    font-size: 150%;
+
+}
+
+.ditio_businesses span {
+    font-weight: 600;
+}
+
+.microsoft {
+
+    width: 39%;
+}
+
+body {
+    width: 80%;
+    margin: auto;
+}
+
+.improve_charges span {
+    color: red;
+    text-decoration: underline;
+
+}
+header{
+    background-color: lightblue;
+}
+
+.navigation {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 5%;
+    font-size: 120%;
+}
+
+.navigation a {
+    color: rgb(112, 106, 106);
+    text-decoration: none;
+}
+
+.signin {
+    width: 13%;
+    height: 50px;
+    border: none;
+    font-size: 120%;
+    background-color: white;
+
+}
+
+.signup {
+    width: 10%;
+    height: 50px;
+    background-color: rgb(214, 110, 128);
+    color: white;
+    border-radius: 5%;
+    font-size: 120%;
+    border: none;
+
+}
+
+.about {
+    display: flex;
+    gap: 20%;
+    margin-top: 2%;
+    margin-bottom: 13%;
+    margin-left: 10%;
+}
+
+.about a {
+    color: black;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.improve_charges {
+    width: 90%;
+    font-size: 130%;
+    margin-top: 5%;
+}
+
+.roger {
+    background-color: white;
+    rotate: -5deg;
+    margin-right: 10%;
+    width: 80%;
+    position: relative;
+    padding: 10%;
+}
+
+.rodger_profile {
+    display: flex;
+    justify-content: space-between;
+}
+
+.reward {
+    width: 50%;
+    margin-right: 8%;
+    background-color: rgb(228, 228, 243);
+    color: blue;
+
+}
+
+#worker-pic {
+    width: 20%;
+    rotate: -5deg;
+}
+
+.salary_information {
+    display: flex;
+    justify-content: space-between;
+    width: 90%;
+}
+
+.slanting_image {
+    width: 20%;
+    height: 40%;
+    background-color: rgb(185, 185, 231);
+    border-radius: 8%;
+    position: absolute;
+    margin-top: 17%;
+    rotate: -5deg;
+}
+
+.bearded_man {
+    width: 40%;
+    position: relative;
+    z-index: 2;
+    margin-left: 50%;
+    rotate: -5deg;
+    border-radius: 9%;
+    margin-top: -4%;
+
+}
+
+.uploading_speed {
+    display: flex;
+    rotate: -5deg;
+    margin-top: -30%;
+    justify-content: space-between;
+    width: 40%;
+    margin-left: 5%;
+    background-color: white;
+    padding: 2%;
+    border-radius: 10%;
+    text-align: center;
+}
+
+.logos {
+    display: flex;
+    justify-content: space-between;
+}
+
+.playstore {
+    width: 190px;
+    height: 300%;
+}
+
+.stores {
+    display: flex;
+
+}
