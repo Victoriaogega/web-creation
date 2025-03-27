@@ -409,6 +409,9 @@ border: 1 px solid red;
     margin-right: 10%;
     margin-top: 0%;
 }
+.sofware_business{
+    margin-bottom: 0%;
+}
 
 .fa-trello {
     font-size: 250%;
@@ -528,7 +531,7 @@ header{
     margin-right: 8%;
     background-color: rgb(228, 228, 243);
     color: blue;
-
+    height: 20%;
 }
 
 #roger_image {
